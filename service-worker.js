@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/pekars/precache-manifest.799b8b105e1d58ae198d98b268e2c3df.js"
+  "/pekars/precache-manifest.600bb7e8dddda449d67891d96e991749.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "pekars"});
